@@ -1,4 +1,4 @@
-# week1
+# week1,
 In the week 1 I learnt about 
 Verilog RTL design and simulation
 Using Icarus Verilog and GTKWave for simulation and waveform analysis
